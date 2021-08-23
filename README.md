@@ -31,5 +31,5 @@ El codigo ha sido manejado en dos paquetes con una clase cada uno, de igual form
 * IDE Eclipse
 * JavaSE-11
 ## Link Repositorio
-[Repositorio donde trabajamos metodos en github](https://github.com/JeimmyValderrama/Proyecto1).
-[Repositorio donde esta el proyecto final en github](https://github.com/SantiagoAndradeMesa/TrabajoColaborativoProgramacion2UPTC.git)
+* [Repositorio donde trabajamos metodos en github](https://github.com/JeimmyValderrama/Proyecto1).
+* [Repositorio donde esta el proyecto final en github](https://github.com/SantiagoAndradeMesa/TrabajoColaborativoProgramacion2UPTC.git)
