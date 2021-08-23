@@ -26,7 +26,7 @@ El codigo ha sido manejado en dos paquetes con una clase cada uno, de igual form
 * Karen Julieth Hernandez Chaparro = 45
 * Jeimmy Patricia Valderrama Vasquez = 45
 
-##Herramientas utilizadas
+## Herramientas utilizadas
 * starUML
 * IDE Eclipse
 * JavaSE-11
